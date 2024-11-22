@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.collective-consciousness_]
+path = 'contracts/collective-consciousness_.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.dream-journal]
 path = 'contracts/dream-journal.clar'
 clarity_version = 2
