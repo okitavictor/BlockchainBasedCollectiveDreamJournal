@@ -9,3 +9,5 @@ K
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 X
 (contracts/collective-consciousness_.clar,d/d/dd52cb06a7ab9147e64f164509bc504dd5393470
+W
+'tests/collective-consciousness_.test.ts,b/6/b6bda7b0c922293508387b8ff480225bbb4abf98
